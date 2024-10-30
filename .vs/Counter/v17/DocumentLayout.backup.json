@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominik\\source\\repos\\Counter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|c:\\users\\dominik\\source\\repos\\counter\\counter\\views\\counters.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|solutionrelative:counter\\views\\counters.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|c:\\users\\dominik\\source\\repos\\counter\\counter\\views\\counters.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|solutionrelative:counter\\views\\counters.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|c:\\users\\dominik\\source\\repos\\counter\\counter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|solutionrelative:counter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|c:\\users\\dominik\\source\\repos\\counter\\counter\\models\\allcounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|solutionrelative:counter\\models\\allcounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|c:\\users\\dominik\\source\\repos\\counter\\counter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|solutionrelative:counter\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|c:\\users\\dominik\\source\\repos\\counter\\counter\\views\\addcounter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|solutionrelative:counter\\views\\addcounter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|c:\\users\\dominik\\source\\repos\\counter\\counter\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|solutionrelative:counter\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|c:\\users\\dominik\\source\\repos\\counter\\counter\\models\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|solutionrelative:counter\\models\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|c:\\users\\dominik\\source\\repos\\counter\\counter\\views\\addcounter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|solutionrelative:counter\\views\\addcounter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|c:\\users\\dominik\\source\\repos\\counter\\counter\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01B35B4B-1EB1-4BCD-9B37-FA90A60E26DE}|Counter\\Counter.csproj|solutionrelative:counter\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCounter.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Views\\AddCounter.xaml.cs",
+              "RelativeDocumentMoniker": "Counter\\Views\\AddCounter.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Views\\AddCounter.xaml.cs",
+              "RelativeToolTip": "Counter\\Views\\AddCounter.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:13:05.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Counter\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\AppShell.xaml",
+              "RelativeToolTip": "Counter\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T17:08:56.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCounter.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Views\\AddCounter.xaml",
+              "RelativeDocumentMoniker": "Counter\\Views\\AddCounter.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Views\\AddCounter.xaml",
+              "RelativeToolTip": "Counter\\Views\\AddCounter.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T17:11:45.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Counter\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\AppShell.xaml.cs",
+              "RelativeToolTip": "Counter\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:17:09.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Models\\Counter.cs",
+              "RelativeDocumentMoniker": "Counter\\Models\\Counter.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Models\\Counter.cs",
+              "RelativeToolTip": "Counter\\Models\\Counter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:02:24.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counters.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Views\\Counters.xaml.cs",
+              "RelativeDocumentMoniker": "Counter\\Views\\Counters.xaml.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Views\\Counters.xaml.cs*",
+              "RelativeToolTip": "Counter\\Views\\Counters.xaml.cs*",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwCwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:15:34.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\App.xaml",
+              "RelativeDocumentMoniker": "Counter\\App.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\App.xaml",
+              "RelativeToolTip": "Counter\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T17:17:01.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counters.xaml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Views\\Counters.xaml",
+              "RelativeDocumentMoniker": "Counter\\Views\\Counters.xaml",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Views\\Counters.xaml",
+              "RelativeToolTip": "Counter\\Views\\Counters.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T17:11:37.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Counter\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\MauiProgram.cs",
+              "RelativeToolTip": "Counter\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T17:16:54.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllCounters.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Models\\AllCounters.cs",
+              "RelativeDocumentMoniker": "Counter\\Models\\AllCounters.cs",
+              "ToolTip": "C:\\Users\\Dominik\\source\\repos\\Counter\\Counter\\Models\\AllCounters.cs",
+              "RelativeToolTip": "Counter\\Models\\AllCounters.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T19:31:37.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

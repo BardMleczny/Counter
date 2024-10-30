@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Counter.Views.Counters"
+             Title="Counters">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+                 Clicked="Add_Clicked"
+                 IconImageSource="{FontImage Glyph='+', Color=Black, Size=22}"/>
+    </ContentPage.ToolbarItems>
+    <CollectionView x:Name="countersCollection"
+                ItemsSource="{Binding Counters}"
+                Margin="20"
+                SelectionMode="Single">
+        <CollectionView.ItemsLayout>
+            <LinearItemsLayout Orientation="Vertical" ItemSpacing="10"/>
+        </CollectionView.ItemsLayout>
+        <CollectionView.ItemTemplate>
+            <DataTemplate>
+                <Border Stroke="Black" StrokeThickness="2" BackgroundColor="{Binding Color}" Padding="10">
+                    <Grid ColumnDefinitions="2*,2*,*,2*,*,*,*" BackgroundColor="{Binding Color}">
+                        <Label Text="{Binding Name}"
+                               HorizontalTextAlignment="Center"
+                               VerticalTextAlignment="Center"
+                               Grid.Column="0"
+                           FontSize="30"/>
+                        <Button Text="+"
+                            Grid.Column="1"
+                            Clicked="Plus_Clicked"/>
+                        <Label Text="{Binding Value}"
+                               HorizontalTextAlignment="Center"
+                               VerticalTextAlignment="Center"
+                               Grid.Column="2"
+                           FontSize="30"/>
+                        <Button Text="-"
+                               Grid.Column="3"
+                            Clicked="Minus_Clicked"/>
+                        <Button Text="R"
+                               Grid.Column="5"
+                               Margin="2"
+                            Clicked="Reset_Clicked"/>
+                        <Button Text="D"
+                               Grid.Column="6"
+                               Margin="2"
+                            Clicked="Delete_Clicked"/>
+                    </Grid>
+                </Border>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+</ContentPage>
